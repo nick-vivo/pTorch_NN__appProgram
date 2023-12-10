@@ -1,0 +1,9 @@
+[submodule "modules/Parser__appProgram"]
+	path = modules/Parser__appProgram
+	url = git@github.com:nick-vivo/Parser__appProgram.git
+[submodule "modules/annotations_dataset__appProgram"]
+	path = modules/annotations_dataset__appProgram
+	url = git@github.com:nick-vivo/annotations_dataset__appProgram.git
+[submodule "modules/Analysis_Data__appProgram"]
+	path = modules/Analysis_Data__appProgram
+	url = git@github.com:nick-vivo/Analysis_Data__appProgram.git

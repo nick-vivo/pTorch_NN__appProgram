@@ -1,0 +1,14 @@
+**/__pycache__/
+*/__pycache__/
+/__pycache__/
+**/__pycache__/*
+*/__pycache__/*
+/__pycache__/*
+
+**/__pycache__/**
+*/__pycache__/**
+/__pycache__/**
+__pycache__/
+
+modules/Parser__appProgram/__pycache__
+dataset
